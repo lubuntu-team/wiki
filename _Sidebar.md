@@ -2,3 +2,4 @@
 * [Bugs](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Bugs)
 * [Contributors](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Contributors)
 * [Debugging](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Debugging)
+* [FAQ](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Frequently-Asked-Questions-%28FAQ%29)
