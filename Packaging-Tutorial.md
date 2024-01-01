@@ -83,7 +83,7 @@ Digging deeper
 📣**IMPORTANT**📣 The following is **required reading** if you want the above to make sense
 
  * [Exceptions](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Exceptions)
- * [Version numbering](https://phab.lubuntu.me/w/packaging/packaging-versions/)
+ * [Version numbering](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Versions)
  * [Real world packaging example](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Example)
 
 Bonus points
