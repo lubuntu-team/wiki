@@ -18,3 +18,4 @@
     * [Packaging Requirements](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Requirements)
     * [Packaging Tutorial](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Tutorial)
     * [Packaging Versions](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Versions)
+    * [Upload to a PPA](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Upload-to-a-PPA)
