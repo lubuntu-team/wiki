@@ -7,3 +7,4 @@
 * [Testing](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Testing)
 * [Packaging](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging)
 	* [Changelog](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Changelog)
+    * [Code Review](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Code-Review)
