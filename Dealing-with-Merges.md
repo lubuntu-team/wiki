@@ -2,7 +2,7 @@ Umm so yeah, we have a new upstream version. Usually [merges.ubuntu.com](https:/
 
 Here are the steps:
 
-  1. Follow [[ packaging/packaging-requirements | packaging-requirements ]]
+  1. Follow [[ Packaging-Requirements | Packaging-Requirements ]]
   1. `sudo apt install ubuntu-dev-tools meld yaru-theme-gtk yaru-theme-icon kdiff`
   1. `mkdir work && cd work`
   1. `grab-merge lxqt-qtplugin`    //replace this with package name. 
