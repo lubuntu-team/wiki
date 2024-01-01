@@ -90,6 +90,6 @@ Bonus points
 ============
 
  * [Packaging guide](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Guide) provides information on standards and policies
- * [Upload to a PPA to test your packages before release](https://phab.lubuntu.me/w/packaging/packaging-ppa/)
- * [Leverage CI for testing](https://phab.lubuntu.me/w/packaging/ci/) as an alternative to PPAs
+ * [Upload to a PPA to test your packages before release](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Upload-to-a-PPA)
+ * ~~[Leverage CI for testing](https://phab.lubuntu.me/w/packaging/ci/) as an alternative to PPAs~~
  * [Packages](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packages) discusses where to find packages, their various states, how to get them in the archives, etc.
