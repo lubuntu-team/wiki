@@ -16,3 +16,4 @@
     * [Packaging Guide](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Guide)
     * [Packaging New Packages](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-New-Packages)
     * [Packaging Requirements](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Requirements)
+    * [Packaging Tutorial](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Tutorial)
