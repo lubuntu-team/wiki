@@ -5,3 +5,5 @@
 * [FAQ](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Frequently-Asked-Questions-%28FAQ%29)
 * [Support](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Support)
 * [Testing](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Testing)
+* [Packaging](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging)
+	* [Changelog](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Changelog)
