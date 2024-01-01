@@ -11,4 +11,5 @@
     * [Dealing with Merges](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Dealing-with-Merges)
     * [Packages](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packages)
     * [Packaging Example](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Example)
+    * [Packaging Exceptions](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Exceptions)
     * [Packaging Requirements](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Requirements)
