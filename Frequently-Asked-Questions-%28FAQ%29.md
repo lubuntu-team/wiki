@@ -15,7 +15,7 @@ Desktop Environment
  * **What desktop environment does Lubuntu use? LXDE or LXQt?**
    * Lubuntu originally shipped with LXDE, but with the 18.10 release, LXQt became our desktop environment.
  * **Is the only difference between the LXDE and LXQt versions of Lubuntu the desktop environment?**
-   * No. The entire landscape of applications was changed. Basically, there was a switch from using GTK+ to Qt applications. A table comparing the two paradigms can be found [here](https://phab.lubuntu.me/w/bugs/). A notable difference is the fact that we use the more general purpose Calamares installer instead of the rather Ubuntu-specific Ubiquity one in the LXQt versions.
+   * No. The entire landscape of applications was changed. Basically, there was a switch from using GTK+ to Qt applications. A table comparing the two paradigms can be found [here](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Bugs). A notable difference is the fact that we use the more general purpose Calamares installer instead of the rather Ubuntu-specific Ubiquity one in the LXQt versions.
  * **How are LXDE and LXQt related?**
    * The long story short is that in the face of problems with the newly released GTK+3, developers of the Razor-Qt project and LXDE developers combined efforts to create something unique relative to LXDE in Qt. It's not a rewrite with 1:1 feature completeness. The longer explanation can be found [here](https://github.com/lxqt/lxqt/wiki/History).
  * **Is LXQt better than LXDE?**
