@@ -13,4 +13,5 @@
     * [Packaging Example](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Example)
     * [Packaging Exceptions](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Exceptions)
     * [Packaging for New Upstream Releases](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-for-New-Upstream-Releases)
+    * [Packaging Guide](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Guide)
     * [Packaging Requirements](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Requirements)
