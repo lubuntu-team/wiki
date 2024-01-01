@@ -1,4 +1,4 @@
-This is meant to supplement the [Packaging Guide](https://phab.lubuntu.me/w/packaging/packaging-guide/).
+This is meant to supplement the [Packaging Guide](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Guide).
 
 The scenario is this: Upstream has released a new version for a package that we host in gitea. We want to update that package. The following are some "notes" to briefly document that.
 
