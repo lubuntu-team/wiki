@@ -3,6 +3,7 @@
 * [Contributors](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Contributors)
 * [Debugging](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Debugging)
 * [FAQ](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Frequently-Asked-Questions-%28FAQ%29)
+* [Membership](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Membership)
 * [Support](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Support)
 * [Testing](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Testing)
 * [Packaging](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging)
