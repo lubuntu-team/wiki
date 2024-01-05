@@ -25,6 +25,7 @@ This list is meant to detail starter tasks for newer contributors. If you'd like
     - We have **tons** of [packaging documentation](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging), but the only command you will need to know for this is `sudo apt build-dep calamares-settings-ubuntu && dpkg-buildpackage -us -uc -b -rfakeroot`. This is ran in the same directory *as* `debian/` (meaning, if you run `ls`, `debian/` will be listed as one of the items in the current directory). You may need to install the `fakeroot` package.
  - [ ] [2] Add support for `/etc/sddm.d` in the [SDDM Configuration Editor](https://github.com/qtilities/sddm-conf/issues/36). Fix as many bugs as you can find.
  - [ ] [3] Work with Aaron Rainbolt (arraybolt3) to finish up [Lubuntu Update](https://git.lubuntu.me/Lubuntu/lubuntu-update). Use it and find bugs to fix.
+ - [ ] [3.5] Figure out how to change the Qt pallette based on how lxqt-config-appearance does it, and add a toggle for it to the installer prompt or somewhere else where it makes sense.
 
 If you run out of tasks, want something less technical, or just want to improve your writing skills, the [Lubuntu Manual](https://git.lubuntu.me/Lubuntu/manual) always needs more help.
 
