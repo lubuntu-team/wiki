@@ -1,4 +1,5 @@
 * [Home](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Home)
+* [Constitution](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Constitution)
 * [Bugs](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Bugs)
 * [Developers](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/lubuntu-dev)
     * [XDG Implementation](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/lubuntu-dev-xdg)
