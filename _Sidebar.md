@@ -2,6 +2,7 @@
 * [Bugs](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Bugs)
 * [Developers](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/lubuntu-dev)
     * [XDG Implementation](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/lubuntu-dev-xdg)
+    * *[Low-Hanging Fruit](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/low-hanging-fruit)*
 * [Contributors](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Contributors)
 * [Debugging](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Debugging)
 * [FAQ](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Frequently-Asked-Questions-%28FAQ%29)
