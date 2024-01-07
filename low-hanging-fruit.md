@@ -26,6 +26,8 @@ This list is meant to detail starter tasks for newer contributors. If you'd like
  - [ ] [2] Add support for `/etc/sddm.d` in the [SDDM Configuration Editor](https://github.com/qtilities/sddm-conf/issues/36). Fix as many bugs as you can find.
  - [ ] [3] Work with Aaron Rainbolt (arraybolt3) to finish up [Lubuntu Update](https://git.lubuntu.me/Lubuntu/lubuntu-update). Use it and find bugs to fix.
  - [ ] [3.5] Figure out how to change the Qt pallette based on how lxqt-config-appearance does it, and add a toggle for it to the installer prompt or somewhere else where it makes sense.
+ - [ ] [3] [Granular Pause of Idleness Checks](https://github.com/lxqt/lxqt-powermanagement/issues/389)
+ - [ ] [5] Fix as many of [the existing LXQt Power Management issues](https://github.com/lxqt/lxqt-powermanagement/issues) as you can
 
 If you run out of tasks, want something less technical, or just want to improve your writing skills, the [Lubuntu Manual](https://git.lubuntu.me/Lubuntu/manual) always needs more help.
 
