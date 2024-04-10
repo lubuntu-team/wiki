@@ -39,7 +39,7 @@ Requirements
        1. Click on "Add Key" just above the "Manage SSH Keys" section
        1. Give your key a name (anything works) and then copy and paste the **//__public__//** key from the step above
        1. Click on "Add Key" below the "Content" section where you added your key
- 1. `$HOME/.quiltrc` from [packaging guide](https://phab.lubuntu.me/w/packaging/packaging-guide)
+ 1. `$HOME/.quiltrc` from [packaging guide](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Guide)
 
 Extras
 ======
