@@ -1,15 +1,15 @@
 Purpose of this document
 ========================
 
-This is meant to provide all the requirements necessary to follow the [Packaging Tutorial](https://phab.lubuntu.me/w/packaging/packagingtutorial/).
+This is meant to provide all the requirements necessary to follow the [Packaging Tutorial](https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Packaging-Tutorial).
 
 Requirements
 ============
 
  1. Software
-    1. `sudo apt install ssh git php-curl php-cli devscripts debhelper tar quilt arcanist` (if arcanist poses any issues, follow [these instructions](https://secure.phabricator.com/book/phabricator/article/arcanist_quick_start).
+    1. `sudo apt install ssh git devscripts debhelper tar quilt` 
  1. Configuration
-    1. Uncomment the `deb-src` lines in `/etc/apt/sources.list` so `apt build-dep` works correctly. They should be duplicates of the normal `deb` lines except they begin with `deb-src`.
+    1. Uncomment the `deb-src` lines in `/etc/apt/sources.list` so `apt build-dep` works correctly. They should be duplicates of the normal `deb` lines except they begin with `deb-src`. With newer versions using [deb822 sources](https://discourse.ubuntu.com/t/spec-apt-deb822-sources-by-default/29333), just add `deb-src` to the `Types` line. 
     1. So you get credit where credit's due:
        1. For `git`:
           1. `git config --global user.name "`***your full name***`"`
@@ -28,21 +28,18 @@ Requirements
           1. Enter a password ≥ 5 characters
        1. Hard way
           1. `ssh-keygen -C some-identifying-info -t ed25519 # more secure and supported by Launchpad; alternately use -t rsa -b 4096`
-          1. Select  a unique name e.g. `$HOME/.ssh/phab # allows you to have more than one key`
+          1. Select  a unique name e.g. `$HOME/.ssh/gitea # allows you to have more than one key`
           1. Pick an even better password!
           1. Edit `$HOME/.ssh/config` to include
-             1. `Host phab.lubuntu.me`
-             1. `  IdentityFile ~/.ssh/phab`
-    1. Add `ssh` key to Phab:
-       1. Go to [Settings](https://phab.lubuntu.me/settings/)
-       1. Click on "Personal Account Settings"
-       1. Click on "SSH Public Keys" under "Authentication" on the left side
-       1. Click {nav SSH Key Actions > Upload Public Key}
+             1. `Host git.lubuntu.me`
+             1. `  IdentityFile ~/.ssh/gitea`
+    1. Add `ssh` key to Gitea:
+       1. Go to [Settings](https://git.lubuntu.me/user/settings)
+       1. Click on "SSH/GPG Keys"
+       1. Click on "Add Key" just above the "Manage SSH Keys" section
        1. Give your key a name (anything works) and then copy and paste the **//__public__//** key from the step above
+       1. Click on "Add Key" below the "Content" section where you added your key
  1. `$HOME/.quiltrc` from [packaging guide](https://phab.lubuntu.me/w/packaging/packaging-guide)
- 1. Final Arcanist tweaks:
-    1. `arc set-config phabricator.uri "https://phab.lubuntu.me/"`
-    1. `arc install-certificate`
 
 Extras
 ======
