@@ -1,9 +1,9 @@
 # Lubuntu Council Members
 see https://launchpad.net/~lubuntu-council/+members#active
-- Chris Guiver , https://launchpad.net/~guiverc
-- Dan Simmons , https://launchpad.net/~kc2bez
-- Thomas Ward , https://launchpad.net/~teward
+- Aaron Rainbolt, https://launchpad.net/~arraybolt3
+- Rober , https://launchpad.net/~roberalz
 - Simon Quigley , https://launchpad.net/~tsimonq2
+- Thomas Ward , https://launchpad.net/~teward
 - Walter Lapchynski , https://launchpad.net/~wxl
 
 # Lubuntu Council emeritus
@@ -11,7 +11,8 @@ see https://launchpad.net/~lubuntu-council-emeritus
 
 - Lyn Perrine , https://launchpad.net/~walterorlin
 - Leó Kolbeinsson , https://launchpad.net/~leok
-- Aaron Rainbolt, https://launchpad.net/~arraybolt3
+- Chris Guiver , https://launchpad.net/~guiverc
+- Dan Simmons , https://launchpad.net/~kc2bez
 
 
 # Current (Active) Lubuntu Members 
@@ -32,7 +33,6 @@ see https://launchpad.net/~lubuntu-members/+members#active
 see https://launchpad.net/~lubuntu-dev/+members#active
 
 - Aaron Rainbolt, https://launchpad.net/~arraybolt3
-- Dan Simmons , https://launchpad.net/~kc2bez
 - Simon Quigley , https://launchpad.net/~tsimonq2
 - Thomas Ward , https://launchpad.net/~teward
 - Walter Lapchynski , https://launchpad.net/~wxl
