@@ -8,26 +8,26 @@ see https://launchpad.net/~lubuntu-council/+members#active
 
 # Lubuntu Council emeritus
 see https://launchpad.net/~lubuntu-council-emeritus
-
-- Lyn Perrine , https://launchpad.net/~walterorlin
-- Leó Kolbeinsson , https://launchpad.net/~leok
 - Chris Guiver , https://launchpad.net/~guiverc
 - Dan Simmons , https://launchpad.net/~kc2bez
-
+- Leó Kolbeinsson , https://launchpad.net/~leok
+- Lyn Perrine , https://launchpad.net/~walterorlin
 
 # Current (Active) Lubuntu Members 
 see https://launchpad.net/~lubuntu-members/+members#active
 
+- Aaron Rainbolt, https://launchpad.net/~arraybolt3
 - Chris Guiver , https://launchpad.net/~guiverc
 - Dan Simmons , https://launchpad.net/~kc2bez
 - David (KGIII) , https://launchpad.net/~uninvolved
+- Leó Kolbeinsson , https://launchpad.net/~leok
 - Lyn Perrine , https://launchpad.net/~walterorlin
 - Rober , https://launchpad.net/~roberalz
 - Simon Quigley , https://launchpad.net/~tsimonq2
 - sudodus , https://launchpad.net/~nio-wiklund
 - Thomas Ward , https://launchpad.net/~teward
 - Walter Lapchynski , https://launchpad.net/~wxl
-- Aaron Rainbolt, https://launchpad.net/~arraybolt3
+
 
 # Current (Active) Lubuntu Developers
 see https://launchpad.net/~lubuntu-dev/+members#active
