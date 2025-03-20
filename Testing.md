@@ -53,8 +53,8 @@ This testing is split into two main types:
 
  * [Milestone Process](https://wiki.ubuntu.com/MilestoneProcess) - timing for a new Ubuntu release
  * [New Release Cycle Process](https://wiki.ubuntu.com/NewReleaseCycleProcess) - getting dailies started and development started after an Ubuntu release
- * [cdimage crontab](http://bazaar.launchpad.net/~ubuntu-cdimage/ubuntu-cdimage/mainline/view/head:/etc/crontab) - timing for building of all Ubuntu images (ours usually takes 90 minutes)
- * [status of building Lubuntu images](https://launchpad.net/~ubuntu-cdimage/+livefs/ubuntu/focal/lubuntu) 
+ * [cdimage crontab](https://git.launchpad.net/ubuntu-cdimage/tree/etc/crontab) - timing for building of all Ubuntu images (ours usually takes 90 minutes)
+ * [status of building Lubuntu images](https://launchpad.net/~ubuntu-cdimage/+livefs/ubuntu/plucky/lubuntu) (if link stale, change codename in URI)
  * [Lubuntu image building logs](http://people.canonical.com/~ubuntu-archive/cd-build-logs/lubuntu/)
 
 ---
